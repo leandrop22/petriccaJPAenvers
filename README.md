@@ -1,1 +1,2 @@
 # petriccaJPAenvers
+En el main quedó ya eliminada la factura, podemos ver en la conexión h2 en la tabla revision_info la fecha en la que se eliminó, y en factura_aud podemos ver que factura fue la que se eliminó. Antes de haberla eliminado fue posible actualizarla, con la linea de codigo merge(factura1) y de la misma forma podemos ver que se modifico el numero de la factura en la tabla factura_aud
